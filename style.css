@@ -1,0 +1,23 @@
+html,body{
+	height: 100%;
+}
+body{
+	background: linear-gradient( to right, #4852B7, #42AABA);
+	background-size: cover;
+	background-attachment: fixed;
+}
+.imagenes{
+	margin: 10px;
+	width: 60%;
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.titulo{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+	text-align: center;
+	color:white;
+}
